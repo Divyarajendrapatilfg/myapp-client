@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: myapp
+  profiles:
+    active: dev   # or qa, uat based on environment
+  config:
+    import: "ConfigServer:http://43.205.233.197:8080"
