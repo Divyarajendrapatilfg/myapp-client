@@ -1,0 +1,2 @@
+nohup: ignoring input
+no main manifest attribute, in target/myapp-0.0.1-SNAPSHOT.jar
